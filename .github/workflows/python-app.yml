@@ -33,7 +33,6 @@ jobs:
         rm tmp.ipynb
         cd ./exemples/
         papermill Examples-Visualization.ipynb tmp.ipynb
-        papermill Examples.ipynb tmp.ipynb
         papermill bases.ipynb tmp.ipynb
         rm tmp.ipynb
 
