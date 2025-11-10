@@ -31,7 +31,7 @@ jobs:
         papermill tp1.ipynb tmp.ipynb
         papermill tp2.ipynb tmp.ipynb
         rm tmp.ipynb
-        cd ./examples/
+        cd ./exemples/
         papermill Examples-Visualization.ipynb tmp.ipynb
         papermill Examples.ipynb tmp.ipynb
         papermill bases.ipynb tmp.ipynb
