@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Advanced Python and Data Processing icon">
+  <rect width="512" height="512" rx="96" fill="#0F4C81"/>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136 256c0-66 54-120 120-120 40 0 76 18 100 50" stroke="#2EC4B6" stroke-width="28"/>
+    <path d="M376 256c0 66-54 120-120 120-40 0-76-18-100-50" stroke="#FFB703" stroke-width="28"/>
+  </g>
+
+  <g opacity="0.9">
+    <rect x="198" y="210" width="24" height="70" rx="7" fill="#FFFFFF"/>
+    <rect x="238" y="194" width="24" height="90" rx="7" fill="#FFFFFF"/>
+    <rect x="278" y="216" width="24" height="62" rx="7" fill="#FFFFFF"/>
+    <rect x="318" y="184" width="24" height="100" rx="7" fill="#FFFFFF"/>
+  </g>
+</svg>
