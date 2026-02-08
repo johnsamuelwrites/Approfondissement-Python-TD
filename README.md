@@ -23,7 +23,9 @@ Chaque TP comporte plusieurs exercices. Chaque exercice est accompagné d'une in
 * John Samuel
 
 ## Archives and Releases
-* [Release Notes](RELEASE.md)
+- [Zenodo]([https://doi.org/10.5281/zenodo.18351024](https://doi.org/10.5281/zenodo.18351024))
+- [Software Heritage](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/johnsamuelwrites/Approfondissement-Python-TD)
+- [Release Notes](RELEASE.md)
 
 ## Licence
 All code are released under GPLv3+ licence. The associated documentation and other content are released under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/).
