@@ -22,10 +22,17 @@ project:
       output: exports/book.pdf
   toc:
     - file: README.md
-    - title: TP
+    - title: Travaux Pratiques
       children:
-        - file: tp1.ipynb
-        - file: tp2.ipynb
+        - title: TP 1
+          file: tp1.ipynb
+        - title: TP 2
+          file: tp2.ipynb
+        - title: Bases
+          file: exemples/bases.ipynb
+        - title: Examples-Visualization
+          file: exemples/Examples-Visualization.ipynb
+
 site:
   options:
     logo: aptd.svg
